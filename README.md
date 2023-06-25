@@ -14,4 +14,5 @@
 9. Update the dvc.yaml
 
 
-## URL- 130795477195.dkr.ecr.us-east-1.amazonaws.com/chicken_disease_classification
+## URL
+  - 130795477195.dkr.ecr.us-east-1.amazonaws.com/chicken_disease_classification
