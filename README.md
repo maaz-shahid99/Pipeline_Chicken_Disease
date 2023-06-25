@@ -12,3 +12,6 @@
 7. Update the pipeline.
 8. Update main.py
 9. Update the dvc.yaml
+
+
+## URL- 130795477195.dkr.ecr.us-east-1.amazonaws.com/chicken_disease_classification
