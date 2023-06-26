@@ -1,3 +1,8 @@
+
+
+![](https://github.com/maaz-shahid99/assets/blob/main/chicken_disease_classification.png)
+
+
 ## Workflows
 
 1. Update config.yaml
