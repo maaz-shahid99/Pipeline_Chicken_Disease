@@ -1,4 +1,4 @@
-# CICD Pipeline_Chicken_Disease Project
+# CICD Pipeline(Chicken Disease) project
 
 ![](https://github.com/maaz-shahid99/assets/blob/main/chicken_disease_classification.png)
 
