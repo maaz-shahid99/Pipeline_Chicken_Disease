@@ -128,6 +128,8 @@ open up you local host and port
 
     ECR_REPOSITORY_NAME = simple-app
 
+## NOTE
+  - If a Docker Image already present Uncomment the commented lines in 'main.yaml' located in .github/workflows/
 
 
 
@@ -158,5 +160,3 @@ docker push chickenapp.azurecr.io/chicken:latest
 ## URL
   - 130795477195.dkr.ecr.us-east-1.amazonaws.com/chicken_disease_classification
 
-## NOTE
-  - If a Docker Image already present Uncomment the commented lines in 'main.yaml' located in .github/workflows/
